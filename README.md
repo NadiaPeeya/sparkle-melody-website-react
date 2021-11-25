@@ -1,7 +1,7 @@
 # Make The Best Career With Music #
 
- #### Netlify life site link:  [Get Best Medical Care](https://nadia-medicare-clinic-service.netlify.app/)
-https://medical-health-care-3daf8.web.app/
+ #### Netlify life site link:  [Get Best Medical Care](https://musicmelody-nadiapeeya-school.netlify.app/)
+https://musicmelody-nadiapeeya-school.netlify.app/
  
 ### Features
 * My Webpage is made with [React](https://reactjs.org/) [Bootstrap](https://getbootstrap.com/) and [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS).
