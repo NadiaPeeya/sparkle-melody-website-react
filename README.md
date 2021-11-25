@@ -1,6 +1,6 @@
 # Make The Best Career With Music #
 
- #### Netlify life site link:  [Get Best Medical Care](https://musicmelody-nadiapeeya-school.netlify.app/)
+ #### Netlify life site link:  [Get Best Musical Instruments Course](https://musicmelody-nadiapeeya-school.netlify.app/)
 https://musicmelody-nadiapeeya-school.netlify.app/
  
 ### Features
