@@ -1,0 +1,17 @@
+.about-styling{
+   
+
+  
+}
+
+.about-us{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  background-color: cornsilk;
+}
+.about-all{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  padding: 20px;
+  background-color: #FBEDE2;
+}

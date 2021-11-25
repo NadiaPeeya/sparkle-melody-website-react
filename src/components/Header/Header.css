@@ -1,0 +1,37 @@
+
+.navbar-style{
+    font-weight: bolder;
+    color: white;
+    font-size: 22px;
+}
+.nav-style{
+    margin: 20px;
+    padding: 10px;
+    text-decoration: none;
+color: white;
+font-weight: 900;
+font-size: 18px;
+}
+.nav-style:hover{
+    color: indianred;
+}
+.nav-styling{
+    background-color: #2F2B27;
+    color: white;
+}
+
+.header-sparkle{
+    font-size: 38px;
+    font-weight: bolder;
+    font-style: italic;
+    color: rgb(201, 196, 184);
+ 
+}
+
+
+.header-melody{
+  color:  rgb(201, 196, 184);
+    font-size: 38px;
+    font-weight: bolder;
+    font-style: italic;
+}

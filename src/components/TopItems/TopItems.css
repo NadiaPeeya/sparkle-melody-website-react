@@ -1,0 +1,16 @@
+.top-items{
+    margin-top: 0%;
+    width: 100%;
+ 
+}
+.carousel-text{
+  font-family:cursive;
+  font-weight: bolder;
+  font-size: 52px;
+}
+.carousel-para{
+    font-family: serif;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: bolder;
+}
